@@ -3,7 +3,7 @@ Scrape data from a TikTok video downloader and get direct info & url links from 
 
 ## Install
 ```
-npm install ttid
+npm install ttsave
 ```
 
 ## Changelog
@@ -13,7 +13,7 @@ npm install ttid
 
 ## Usage
 ```
-const tiktok =  require("ttid");
+const tiktok =  require("ttsave");
 
 const link = "https://www.tiktok.com/@dakwahmuezza/video/7150544062221749531"
 
