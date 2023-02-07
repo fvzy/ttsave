@@ -1,0 +1,37 @@
+{
+  "name": "ttid",
+  "version": "1.0.0",
+  "description": "TikTok video downloader scrapper. Scrap data from a TikTok video downloader and get direct info & url links from your media",
+  "keywords": [
+    "tiktok",
+    "download",
+    "tiktok-download",
+    "tiktok-video-downloader",
+    "tiktok-down",
+    "tiktok-info"
+  ],
+  "homepage": "https://github.com/wffzt/ttsave",
+  "bugs": {
+    "url": "https://github.com/wffzy/ttsave/issues"
+  },
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wffzy/ttsave.git"
+  },
+  "author": "Ditzzy",
+  "license": "MIT",
+  "private": false,
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "engineStrict": true,
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "needle": "^3.2.0"
+  }
+}
