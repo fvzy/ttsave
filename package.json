@@ -26,10 +26,7 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/ditzzsenpai"
   },
-  "author": {
-    "name": "Ditzzy",
-    "email": "hello@zyy.sh",
-  },
+  "author": "Ditzzy",
   "license": "MIT",
   "private": false,
   "engines": {
