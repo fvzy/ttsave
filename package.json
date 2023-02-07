@@ -1,5 +1,5 @@
 {
-  "name": "ttid",
+  "name": "@wffzy/ttid",
   "version": "1.0.0",
   "description": "TikTok video downloader scrapper. Scrap data from a TikTok video downloader and get direct info & url links from your media",
   "keywords": [
@@ -23,7 +23,13 @@
     "type": "git",
     "url": "https://github.com/wffzy/ttsave.git"
   },
-  "author": "Ditzzy",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/ditzzsenpai"
+  },
+  "author": {
+    "name": "Ditzzy",
+    "email": "hello@zyy.sh",
+  },,
   "license": "MIT",
   "private": false,
   "engines": {
