@@ -28,7 +28,7 @@ jobs:
           registry-url: https://registry.npmjs.org/
       - name: Configure npm
         run: |
-          echo '//registry.npmjs.org/:_authToken=${NPM_TOKEN}' > .npmrc
+          echo '//registry.npmjs.org/:_authToken=${NPM_SECRET}' > .npmrc
           cat .npmrc
         env:
-          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+          NODE_AUTH_TOKEN: ${{ secrets.NPM_SECRET }}
