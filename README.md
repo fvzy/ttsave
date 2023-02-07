@@ -1,4 +1,4 @@
-# TTID
+# TTSAVE
 Scrape data from a TikTok video downloader and get direct info & url links from your TikTok video
 
 ## Install
