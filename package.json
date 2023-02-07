@@ -23,9 +23,6 @@
     "type": "git",
     "url": "https://github.com/wffzy/ttsave.git"
   },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/ditzzsenpai"
-  },
   "author": "Ditzzy",
   "license": "MIT",
   "private": false,
