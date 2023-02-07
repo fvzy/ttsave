@@ -18,7 +18,7 @@ module.exports = getInfo = async (link) => {
       author: {
         name: $('div div h2').text(),
         profile: $('div a').attr('href'),
-	judul: $('div p.text-gray-600.px-2.text-center.break-all.w-3/4').text(),
+	judul: $('p').eq(0).text().trim(),
         username: $('div a.font-extrabold.text-blue-400.text-xl.mb-2').text()
 		
       },
