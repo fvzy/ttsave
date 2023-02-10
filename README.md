@@ -24,8 +24,8 @@ tiktok.getInfo(link)
 ```
 
 ## Issues & Contact
-> Create issue session in [Github Repo](https://github.com/wffzy/ttid/issues)
+> Create issue session in [Github Repo](https://github.com/wffzy/ttsave/issues)
 
-> You can reach me on [Telegram](https://t.me@zrvxf2)
+> You can reach me on [Telegram](https://t.me/@zrvxf2)
 
 ### Thanks for using my module, Hope you forgive me if it shows an error, because I'm newbie at this :>
